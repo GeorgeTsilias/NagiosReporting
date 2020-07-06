@@ -13,3 +13,6 @@ The Reports are weekly (the value is hardcoded on the script), but they can easi
 You can optionally mail the PDF using the "mail" utility.
 
 I personally have this script running as a cronjob every Monday in order to be presented with the last week's overview.
+
+#Notes
+I could definitely handle some things better (first thing that comes to mind is exiting and reporting if one of the utilities is not available on the server)
